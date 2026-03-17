@@ -1,0 +1,16 @@
+{
+  "name": "game-assist-turbo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "build:android": "vite build && npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.2.0",
+    "@capacitor/cli": "^8.2.0",
+    "@capacitor/core": "^8.2.0",
+    "react": "^19.0.0",
+    "firebase": "^10.13.2"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782284797139",
+    "project_id": "gen-lang-client-0650517656",
+    "storage_bucket": "gen-lang-client-0650517656.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782284797139:android:50e20d976c0bb97fba1026",
+        "android_client_info": {
+          "package_name": "com.gameassist.turbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782284797139-ma42kd9uh7gbqecqp7cdgfqktf8coge2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gameassist.turbo",
+            "certificate_hash": "5e8af2c13d90ab771234567890abcdef12345678"
+          }
+        },
+        {
+          "client_id": "782284797139-02h4cgqsh67bcocqthum2lpqc9soc2i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE653G-mAfUGBmfJdsBVBcdcgu9pWD9y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782284797139-02h4cgqsh67bcocqthum2lpqc9soc2i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
